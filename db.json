@@ -1,0 +1,10 @@
+{
+    "peliculas":[
+        {
+            "id": 1,
+            "titulo": "Rapidos y Furiosos",
+            "año": 2001
+        }
+
+    ]
+}
