@@ -5,14 +5,13 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm start app.js",
-    "json-server": "json-server --watch db.json"
+    "start": "node api/server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/echeverriaalex/api-json-server.git"
   },
-  "author": "Alex Nahuel Echeverria",
+  "author": "Alex Nahuel Echeverria, aleex.naahuel@outlook.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/echeverriaalex/api-json-server/issues"
